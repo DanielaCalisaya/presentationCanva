@@ -1,0 +1,2 @@
+background-color: #cec3e4
+font-family: lora
